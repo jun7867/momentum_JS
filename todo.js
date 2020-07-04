@@ -4,7 +4,7 @@ const toDoForm=document.querySelector(".js-toDoForm"),
 
 const TODOS_LS='toDos'; //const toDos와 동일.
 
-let toDos = []; // 해야 할것을 list로.
+let toDos = []; // toDo는 삭제 추가되므로 let.
 
 //함수가 true를 return 하는 아이템들이 있는 array 생성
 // todo 삭제시 사용 예시
