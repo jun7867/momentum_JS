@@ -4,6 +4,7 @@ Vanilla JS 를 사용해서 Momentum 홈페이지 clone
 ## Feature
 
 - Clock
+- Random Background
 - Todo_list
 - Location
 - Weather API
